@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShreyasKR8
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Game Development using Unreal Engine 4
+- 👀 I’m interested in - Software Development
+                         -Game Development
 <!---💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me skrravi08@gmail.com
 
