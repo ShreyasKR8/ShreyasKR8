@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShreyasKR8
 - 👀 I’m interested in - Software Development
                          -Game Development
-  -Web Development 
+                         -Web Development 
 <!---💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me skrravi08@gmail.com
 
