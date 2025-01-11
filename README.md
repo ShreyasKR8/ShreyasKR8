@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShreyasKR8
+- 👋 Hi, I’m Shreyas
 - 👀 I’m interested in - Software Development
                          -Game Development
                          -Web Development 
